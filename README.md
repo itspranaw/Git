@@ -1,6 +1,6 @@
 ### Requirements
 
-1. Git: [Windows](https://gitforwindows.org/)
+1. Git: [Windows]()
 2. [VsCode](https://code.visualstudio.com/download)
 
 ### Initialization
